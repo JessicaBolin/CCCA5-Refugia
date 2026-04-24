@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # CCCA5-Refugia
 
 Repository hosting R code for reproducing figures from "IDENTIFYING
